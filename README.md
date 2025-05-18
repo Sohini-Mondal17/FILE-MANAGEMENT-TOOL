@@ -49,3 +49,7 @@ Learning tools: File handling builds a foundation for understanding how data is 
 Final Thoughts:
 Creating this program gave me valuable hands-on experience with file handling, loops, and user input/output in C++. It also helped me feel more confident using a real-world editor like VS Code. I’m excited to explore more advanced topics next, such as binary files and databases, and keep improving my skills from here. 
 
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/8455d911-32e7-4699-b798-e97ce0065b18)
+
